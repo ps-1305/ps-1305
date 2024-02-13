@@ -4,8 +4,8 @@
 ### Languages: _C - C++ - Python_
 
 ### My journey of coding:
-* [CSL1010](spring-2024) : Introduction to C
-* [CS1002](cs-1002) : Introduction to Python
+* [CSL1010](https://github.com/ps-1305/spring-2024) : Introduction to C
+* [CS1002](https://github.com/ps-1305/cs-1002) : Introduction to Python
 
 
 <!--
