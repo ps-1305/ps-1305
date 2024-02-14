@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### My name is <ins>Prashant Srivastav</ins>
-### Languages: _C - C++ - Python_
+### Languages: _C - Python_
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ps-1305&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My journey of coding:
 * [CSL1010](https://github.com/ps-1305/spring-2024) : Introduction to C
