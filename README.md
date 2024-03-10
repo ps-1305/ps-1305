@@ -26,9 +26,9 @@
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="200" width="100" />
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="200" width="100" /> 
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="200" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-1305&layout=compact" height="200"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-1305&layout=compact" height="200"/>
 
 ### My journey of coding:
 * [CSL1010](https://github.com/ps-1305/spring-2024) : Introduction to C
