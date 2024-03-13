@@ -34,7 +34,8 @@
 * [CSL1010](https://github.com/ps-1305/spring-2024) : Introduction to C
 * [CS1002](https://github.com/ps-1305/cs-1002) : Introduction to Python
 
-
+### My Projects:
+* [Matt the matrix guy](https://github.com/ps-1305/matt-the-matrix-guy) : A software for matrix computations
 <!--
 **ps-1305/ps-1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
