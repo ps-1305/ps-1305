@@ -1,3 +1,4 @@
+<!--
 ```
   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______ 
  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/ 
@@ -21,6 +22,7 @@
   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______ 
  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/ 
 ```
+-->
 <p align='left'> 
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg" alt="vscode" height="200" width="100"/>
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="200" width="100" />
@@ -30,12 +32,14 @@
 </p>
 
 
-### My journey of coding:
+## My journey of coding
 * [CSL1010](https://github.com/ps-1305/spring-2024) : Introduction to C
 * [CS1002](https://github.com/ps-1305/cs-1002) : Introduction to Python
 
+<!--
 ### My Projects:
 * [Matt the matrix guy](https://github.com/ps-1305/matt-the-matrix-guy) : A software for matrix computations
+-->
 <!--
 **ps-1305/ps-1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
