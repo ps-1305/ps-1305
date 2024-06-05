@@ -31,12 +31,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-1305&layout=compact" height="200"/>
 </p>
 
-
+<!--
 ## My journey of coding
 * [CSL1010](https://github.com/ps-1305/spring-2024) : Introduction to C
 * [CS1002](https://github.com/ps-1305/cs-1002) : Introduction to Python
 
-<!--
+
 ### My Projects:
 * [Matt the matrix guy](https://github.com/ps-1305/matt-the-matrix-guy) : A software for matrix computations
 -->
