@@ -17,6 +17,12 @@
   </a>
 </p>
 <p align="center">
+ <a><b>Markup languages</b><br></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,md,latex" />
+  </a>
+</p>
+<p align="center">
  <a><b>Operating Systems</b><br></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,debian" />
