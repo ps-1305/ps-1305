@@ -26,7 +26,7 @@
 <p align="center">
  <a><b>Operating Systems</b><br></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,debian" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu" />
   </a>
 </p>
 
